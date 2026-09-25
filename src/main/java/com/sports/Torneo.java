@@ -18,7 +18,9 @@ public class Torneo {
 
     @Column(name = "fecha_inicio")
     private LocalDate fechaInicio;
+    public Torneo(){
 
+    }
     public Integer getIdTorneo() {
         return idTorneo;
     }

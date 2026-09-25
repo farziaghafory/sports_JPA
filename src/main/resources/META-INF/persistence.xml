@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence xmlns="https://jakarta.ee/xml/ns/persistence"
              version="3.2">
-    <persistence-unit name="esportsPU">
+    <persistence-unit name="sport_JPA">
         <provider>
             org.hibernate.jpa.HibernatePersistenceProvider
         </provider>

@@ -21,13 +21,13 @@ public class Equipo {
     public String getNombre(){
         return nombre;
     }
-    public void setNombre(){
+    public void setNombre(String nombre){
         this.nombre=nombre;
     }
     public String getPais(){
         return pais;
     }
-    public void setPais(){
+    public void setPais(String pais){
         this.pais=pais;
     }
 }
